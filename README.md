@@ -1,19 +1,19 @@
-# 📈 Monitor de Shards
+# 📈 Shards Monitor
 
-## 👨🏻‍💻 Desenvolvedor
+## 👨🏻‍💻 Developer
 
-> * Foi desenvolvido por mim, com algumas pesquisas.
+> * It was developed by me, with some research.
 
-## 🎉 Resultado
+## 🎉 Result
 ![Alt text](https://i.imgur.com/BXJHh6G.png "ZabbiX Status")
 
-## ✅ Pré requisitos
+## ✅ Prerequisites
 
 * [***Discord.js - V13.1.0***](https://discord.js.org/#/)
 * [***ascii-table - V0.0.9***](https://www.npmjs.com/package/ascii-table)
-* ***Conhecimentos básicos.***
+* ***Basic knowledge.***
 
 ## 🤓 Propósito
 
-> * Mostrar algumas informações dos shards separadamente, tendo em vista saber através do ID o tempo de execução, a memória Ram usada, o ping e quantidade de usuários e guilds.
-> * Resumindo, pra quem gosta de ver o status de cada shard, gosta de informações, e saber oque se passa no seu bot.
+> * Show some information of shards separately, in order to know through the ID the execution time, the used ram, the ping and the number of users and guilds.
+> * In short, for those who like to see the status of each shard, like information, and knowing what's going on in your bot.
